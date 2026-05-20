@@ -54,7 +54,7 @@ The primary goals of this project are:
 
 ## Full Pipeline Architecture
 
-```text
+```
 TMDB Dataset
       │
       ▼
